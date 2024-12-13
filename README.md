@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manasranjn&label=Profile%20views&color=0e75b6&style=flat" alt="manasranjn" /> </p>
 
-- 🔭 I’m currently working on **Job Portal, Full-Stack Blog App**
+- 🔭 I’m currently working on **AI Writting Assistance, Full-Stack Blog App**
 
 - 🌱 I’m currently learning **Node.JS, AWS**
 

@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **AI Writting Assistance, Full-Stack Blog App**
 
-- 🌱 I’m currently learning **Node.JS, AWS**
+- 🌱 I’m currently learning **Machine Learning, AWS**
 
 - 👨‍💻 Check out My Portfolio [https://manasranjn.github.io/My-Portfolio/](https://manasranjn.github.io/My-Portfolio/)
 
